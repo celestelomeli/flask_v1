@@ -1,5 +1,7 @@
 # flask_v1 — Flask learning iteration (v1)
 
+> **Status:** Archived - Completed learning milestone. See `flask_v2` and `flask_v3` for progression.
+
 Small Flask practice project while learning:
 - routing
 - HTML templates (Jinja-ready)
